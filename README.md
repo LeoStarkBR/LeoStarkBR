@@ -39,6 +39,8 @@ Bibliotecas: Pandas, NumPy, Matplotlib
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=scrum&logoColor=white)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeoStarkBR&layout=compact&langs_count=8&theme=tokyonight)
+
 ---
 
 ## 🌟 Projetos em Destaque  
