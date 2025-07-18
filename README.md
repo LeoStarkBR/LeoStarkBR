@@ -1,6 +1,6 @@
-# 🧑‍💻 Leonardo Gabriel Lopes Queiroz
+# Leonardo Gabriel Lopes Queiroz
 
-🎯 *Controller Administrativo | Especialista em Recuperação de Créditos | Dev em formação com foco em RPA, IA e Web*
+*Controller Administrativo | Especialista em Recuperação de Créditos | Dev em formação com foco em RPA, IA e Web*
 
 📍 **Bauru/SP** | 🇧🇷 
 Atuação nas áreas Cível, Bancária e Securitária 
@@ -17,7 +17,7 @@ Sou um **Controller Administrativo** com foco estratégico na **recuperação de
 
 ## 🚀 Tecnologias e Ferramentas
 
-### 👨‍💻 Front-End  
+###   Front-End  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -26,7 +26,7 @@ Sou um **Controller Administrativo** com foco estratégico na **recuperação de
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js&logoColor=white)
 
-### ⚙️ Back-End, Banco de Dados & Automação
+###   Back-End, Banco de Dados & Automação
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -41,12 +41,12 @@ Sou um **Controller Administrativo** com foco estratégico na **recuperação de
 
 ---
 
-### 🛠️ Outras Skills
+###   Outras Skills
 
 ![Clean Code](https://img.shields.io/badge/Boas%20Práticas-JS-yellow?style=for-the-badge&logo=javascript&logoColor=black)
 ![Deploys e Integrações](https://img.shields.io/badge/Deploys%20&%20Integrações-0052CC?style=for-the-badge&logo=githubactions&logoColor=white)
 
-### 📊 Dados e IA  
+###   Dados e IA  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
@@ -56,13 +56,13 @@ Sou um **Controller Administrativo** com foco estratégico na **recuperação de
 
 ---
 
-## 📊 GitHub Insights
+##   GitHub Insights
 
 ### 🔥 Estatísticas
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LeoStarkBR&show_icons=true&theme=tokyonight)
 
-### 📌 Linguagens Mais Usadas
+###  Linguagens Mais Usadas
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeoStarkBR&layout=compact&langs_count=8&theme=tokyonight)
 
@@ -70,11 +70,11 @@ Sou um **Controller Administrativo** com foco estratégico na **recuperação de
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=LeoStarkBR&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
-### 📈 Atividade
+###  Atividade
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=LeoStarkBR&theme=tokyo-night)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
-### 🏆 Trophies
+###  Trophies
 
 [![Trophies](https://github-profile-trophy.vercel.app/?username=LeoStarkBR&theme=tokyonight&no-frame=true&rank=SECRET,SSS,SS,S,A,B,C)](https://github.com/ryo-ma/github-profile-trophy)
 
@@ -82,10 +82,10 @@ Sou um **Controller Administrativo** com foco estratégico na **recuperação de
 
 ## 🧪 Projetos em Destaque
 
-| 💡 Projeto | 💬 Descrição |
+|  Projeto |  Descrição |
 |-----------|-------------|
-| 💼 **Sistema de Cobrança** | WebApp com login, cadastro de devedores, filtros e envio de campanhas |
-| 🧠 **Previsão de Casos de Dengue (WIP)** | Análise preditiva por bairro com IA baseada em dados públicos |
+| � **Sistema de Cobrança** | WebApp com login, cadastro de devedores, filtros e envio de campanhas |
+|  **Previsão de Casos de Dengue (WIP)** | Análise preditiva por bairro com IA baseada em dados públicos |
 
 ---
 
@@ -95,7 +95,7 @@ Sou um **Controller Administrativo** com foco estratégico na **recuperação de
 
 ---
 
-## 📬 Vamos nos Conectar?
+##  Vamos nos Conectar?
 
 📧 **Email**: lopesl484@gmail.com  
 🔗 **LinkedIn**: [leonardo-gabriel-lopes-queiroz](https://www.linkedin.com/in/leonardo-gabriel-lopes-queiroz-0854b2195/)
