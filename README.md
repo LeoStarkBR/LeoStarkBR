@@ -15,7 +15,7 @@ Sou um **Controller Administrativo** com foco estratégico na **recuperação de
 
 ---
 
-## 🚀 Tecnologias e Ferramentas
+##  Tecnologias e Ferramentas
 
 ###   Front-End  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -66,7 +66,7 @@ Sou um **Controller Administrativo** com foco estratégico na **recuperação de
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeoStarkBR&layout=compact&langs_count=8&theme=tokyonight)
 
-### ⏱️ Streaks
+###  Streaks
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=LeoStarkBR&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
@@ -80,11 +80,11 @@ Sou um **Controller Administrativo** com foco estratégico na **recuperação de
 
 ---
 
-## 🧪 Projetos em Destaque
+##  Projetos em Destaque
 
 |  Projeto |  Descrição |
 |-----------|-------------|
-| � **Sistema de Cobrança** | WebApp com login, cadastro de devedores, filtros e envio de campanhas |
+|  **Sistema de Cobrança** | WebApp com login, cadastro de devedores, filtros e envio de campanhas |
 |  **Previsão de Casos de Dengue (WIP)** | Análise preditiva por bairro com IA baseada em dados públicos |
 
 ---
