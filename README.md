@@ -1,6 +1,6 @@
 # Leonardo Gabriel Lopes Queiroz
 
-*Controller Administrativo | Especialista em Recuperação de Créditos | Dev em formação com foco em RPA, IA e Web*
+*Business Analytics Jr | Legal Tech | Ciência da Computação | IA & Dados*
 
 📍 **Bauru/SP** | 🇧🇷 
 Atuação nas áreas Cível, Bancária e Securitária 
@@ -11,7 +11,7 @@ Graduando em Ciência da Computação - UNISAGRADO
 
 ## ✨ Sobre Mim
 
-Sou um **Controller Administrativo** com foco estratégico na **recuperação de créditos** e eficiência de resultados nas áreas Cível, Bancária e Securitária. Ao mesmo tempo, venho construindo minha trajetória como **desenvolvedor**, integrando tecnologia ao setor jurídico com automações, dashboards e ferramentas de análise.
+Sou **Business Analytics Jr** em uma LegalTech. Ao mesmo tempo, venho construindo minha trajetória como **desenvolvedor**, integrando tecnologia ao setor jurídico com automações, dashboards e ferramentas de análise.
 
 ---
 
@@ -56,36 +56,6 @@ Sou um **Controller Administrativo** com foco estratégico na **recuperação de
 
 ---
 
-##   GitHub Insights
-
-### 🔥 Estatísticas
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LeoStarkBR&show_icons=true&theme=tokyonight)
-
-###  Linguagens Mais Usadas
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeoStarkBR&layout=compact&langs_count=8&theme=tokyonight)
-
-###  Streaks
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=LeoStarkBR&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-###  Atividade
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=LeoStarkBR&theme=tokyo-night)](https://github.com/Ashutosh00710/github-readme-activity-graph)
-
-###  Trophies
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=LeoStarkBR&theme=tokyonight&no-frame=true&rank=SECRET,SSS,SS,S,A,B,C)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
-##  Projetos em Destaque
-
-|  Projeto |  Descrição |
-|-----------|-------------|
-|  **Sistema de Cobrança** | WebApp com login, cadastro de devedores, filtros e envio de campanhas |
-|  **Previsão de Casos de Dengue (WIP)** | Análise preditiva por bairro com IA baseada em dados públicos |
 
 ---
 
